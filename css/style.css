@@ -1,0 +1,16 @@
+
+h1 {
+    font-family: 'Helvetica';
+    color: white;
+    background-color: #333; /* dark gray */
+    }
+.underline{
+    text-decoration: underline;
+    text-decoration-color:blue;
+}
+.blued{
+    color:blue;
+}
+p{
+    color: purple;
+}
